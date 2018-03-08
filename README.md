@@ -5,6 +5,7 @@ A lottery smart contract, tested on a local network and deployed to Rinkeby Ethe
 * Solidity
 * Web3
 * JavaScript
+* Node.js
 * Mocha
 * Ganache
 * Remix
