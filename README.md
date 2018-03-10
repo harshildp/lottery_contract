@@ -10,3 +10,4 @@ A lottery smart contract, tested on a local network and deployed to Rinkeby Ethe
 * Ganache
 * Remix
 * Rinkeby Test Network
+* React
