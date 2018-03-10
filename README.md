@@ -11,3 +11,6 @@ A lottery smart contract, tested on a local network and deployed to Rinkeby Ethe
 * Remix
 * Rinkeby Test Network
 * React
+
+## Acknowledgments
+Stephen Grider who teaches the 'Ethereum and Solidity: The Complete Developer's Guide' course at Udemy.
